@@ -1,48 +1,48 @@
-#Comparison of the Wine dataset analysis with supervised machine learning models
+# Comparison of the Wine dataset analysis with supervised machine learning models
 
-The wine dataset contains 10 feature columns and 1 target column. During preprocessing the features were scaled with ##MinMaxScaler
+The wine dataset contains 10 feature columns and 1 target column. During preprocessing the features were scaled with ### MinMaxScaler
 
 Feature columns:
-  fixed acidity
-  volatile acidity
-  citric acid
-  residual sugar
-  chlorides
-  free sulfur dioxide
-  total sulfur dioxide
-  density
-  pH
-  sulphates
-  alcohol
+  - fixed acidity
+  - volatile acidity
+  - citric acid
+  - residual sugar
+  - chlorides
+  - free sulfur dioxide
+  - total sulfur dioxide
+  - density
+  - pH
+  - sulphates
+  - alcohol
 
   
 Target column: 
-  quality
+  - quality
 
 
-#Supervised Models
+# Supervised Models
 The following Supervised Machine Learning were applied
 
-##Linear Regression
+## Linear Regression
 
-##Logistic Regression
+## Logistic Regression
 
-##Decision Tree Classifier
+## Decision Tree Classifier
 
-##K Neighbour Classifier
+## K Neighbour Classifier
 
-##Support Vector Machine SVM
+## Support Vector Machine SVM
 
-##AdaBoost
+## AdaBoost
 
 
-#Evaluation metrics
+# Evaluation metrics
 The algorithms were evaluated for accuracy, precision, recall, f1-score, mean standard error and mean absolute error.
 
-#Visualization
+# Visualization
 For comparison, the results were tabulated and visualized with seaborn package
 
 
-#Results
+# Results
 The metrics are somewhat low, which could be partially explained by the high number of classes in the quality target. Next steps could be to implement dimensionality reduction with clustering algorithms to assess if the metrics improve. 
 
