@@ -1,6 +1,7 @@
 # Comparison of the Wine dataset analysis with supervised machine learning models
 
-The wine dataset contains 10 feature columns and 1 target column. During preprocessing the features were scaled with ### MinMaxScaler
+The wine dataset contains 10 feature columns and 1 target column. During preprocessing the features were scaled with 
+### MinMaxScaler
 
 Feature columns:
   - fixed acidity
@@ -23,17 +24,17 @@ Target column:
 # Supervised Models
 The following Supervised Machine Learning were applied
 
-## Linear Regression
+### Linear Regression
 
-## Logistic Regression
+### Logistic Regression
 
-## Decision Tree Classifier
+### Decision Tree Classifier
 
-## K Neighbour Classifier
+### K Neighbour Classifier
 
-## Support Vector Machine SVM
+### Support Vector Machine SVM
 
-## AdaBoost
+### AdaBoost
 
 
 # Evaluation metrics
