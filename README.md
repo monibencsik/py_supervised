@@ -1,6 +1,11 @@
 # Comparison of the 🍷 Wine dataset analysis with supervised machine learning models 🚀
 
-The wine dataset contains 10 feature columns and 1 target column. During preprocessing the features were scaled with 
+The original dataset: 
+
+kaggle datasets download yasserh/wine-quality-dataset
+
+
+This version of the wine dataset contains 10 feature columns and 1 target column. During preprocessing the features were scaled with 
 ### MinMaxScaler
 
 Feature columns:
