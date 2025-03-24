@@ -1,4 +1,4 @@
-# Comparison of the Wine dataset analysis with supervised machine learning models
+# Comparison of the 🍷 Wine dataset analysis with supervised machine learning models 🚀
 
 The wine dataset contains 10 feature columns and 1 target column. During preprocessing the features were scaled with 
 ### MinMaxScaler
