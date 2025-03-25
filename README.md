@@ -2,7 +2,7 @@
 
 The original dataset: 
 
-kaggle datasets download yasserh/wine-quality-dataset
+[Wine quality dataset](https://archive.ics.uci.edu/dataset/186/wine+quality)
 
 
 This version of the wine dataset contains 10 feature columns and 1 target column. During preprocessing the features were scaled with 
